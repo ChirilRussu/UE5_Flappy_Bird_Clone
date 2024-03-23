@@ -1,0 +1,7 @@
+Saved/Cooked/Windows/FlappyBird/Content/ShaderArchive-Global-PCD3D_SM6-PCD3D_SM6.ushaderbytecode filter=lfs diff=lfs merge=lfs -text
+Saved/Cooked/Windows/FlappyBird/Content/ShaderArchive-FlappyBird-PCD3D_SM6-PCD3D_SM6.ushaderbytecode filter=lfs diff=lfs merge=lfs -text
+Saved/StagedBuilds/Windows/FlappyBird/Content/Paks/FlappyBird-Windows.ucas filter=lfs diff=lfs merge=lfs -text
+Binaries/Win64/FlappyBird-Win64-Shipping.exe filter=lfs diff=lfs merge=lfs -text
+Binaries/Win64/FlappyBird-Win64-Shipping.pdb filter=lfs diff=lfs merge=lfs -text
+Intermediate/Build/Win64/x64/FlappyBird/Shipping/Core/SharedPCH.Core.Cpp17.h.pch filter=lfs diff=lfs merge=lfs -text
+Saved/StagedBuilds/Windows/FlappyBird/Binaries/Win64/FlappyBird-Win64-Shipping.exe filter=lfs diff=lfs merge=lfs -text

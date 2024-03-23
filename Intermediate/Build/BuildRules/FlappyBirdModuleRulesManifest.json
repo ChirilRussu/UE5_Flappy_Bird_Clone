@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\Projects\\UE5 Course\\FlappyBird\\Intermediate\\Source\\FlappyBird.Build.cs",
+		"D:\\Projects\\UE5 Course\\FlappyBird\\Intermediate\\Source\\FlappyBird.Target.cs",
+		"D:\\Projects\\UE5 Course\\FlappyBird\\Intermediate\\Source\\FlappyBirdClient.Target.cs",
+		"D:\\Projects\\UE5 Course\\FlappyBird\\Intermediate\\Source\\FlappyBirdEditor.Target.cs",
+		"D:\\Projects\\UE5 Course\\FlappyBird\\Intermediate\\Source\\FlappyBirdServer.Target.cs"
+	],
+	"EngineVersion": "5.3.0"
+}
