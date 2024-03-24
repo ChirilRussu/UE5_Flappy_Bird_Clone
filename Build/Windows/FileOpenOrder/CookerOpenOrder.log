@@ -150,923 +150,923 @@
 "../../../Engine/Content/BasicShapes/Cone.ubulk" 149
 "../../../Engine/Content/BasicShapes/Cone.uasset" 150
 "../../../Engine/Content/BasicShapes/Cone.uexp" 151
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk" 152
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 153
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uexp" 154
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 155
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uexp" 156
-"../../../Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uasset" 157
-"../../../Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uexp" 158
-"../../../Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uasset" 159
-"../../../Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uexp" 160
-"../../../Engine/Content/EngineSounds/Master.uasset" 161
-"../../../Engine/Content/EngineSounds/Master.uexp" 162
-"D:/Projects/UE5 Course/FlappyBird/Content/SFX/zapsplat_cartoon_springing_boing_jump_jaw_harp_001_72946.ubulk" 163
-"D:/Projects/UE5 Course/FlappyBird/Content/SFX/zapsplat_cartoon_springing_boing_jump_jaw_harp_001_72946.uasset" 164
-"D:/Projects/UE5 Course/FlappyBird/Content/SFX/zapsplat_cartoon_springing_boing_jump_jaw_harp_001_72946.uexp" 165
-"D:/Projects/UE5 Course/FlappyBird/Content/SFX/zapsplat_cartoon_bounce_jump_short_hop_001_67997.ubulk" 166
-"D:/Projects/UE5 Course/FlappyBird/Content/SFX/zapsplat_cartoon_bounce_jump_short_hop_001_67997.uasset" 167
-"D:/Projects/UE5 Course/FlappyBird/Content/SFX/zapsplat_cartoon_bounce_jump_short_hop_001_67997.uexp" 168
-"D:/Projects/UE5 Course/FlappyBird/Content/Sprites/Bird.ubulk" 169
-"D:/Projects/UE5 Course/FlappyBird/Content/Sprites/Bird.uasset" 170
-"D:/Projects/UE5 Course/FlappyBird/Content/Sprites/Bird.uexp" 171
-"D:/Projects/UE5 Course/FlappyBird/Content/Sprites/Bird_Sprite.uasset" 172
-"D:/Projects/UE5 Course/FlappyBird/Content/Sprites/Bird_Sprite.uexp" 173
-"D:/Projects/UE5 Course/FlappyBird/Content/Sprites/Bird_Flipbook.uasset" 174
-"D:/Projects/UE5 Course/FlappyBird/Content/Sprites/Bird_Flipbook.uexp" 175
-"D:/Projects/UE5 Course/FlappyBird/Content/SFX/zapsplat_cartoon_frog_jump_26526.ubulk" 176
-"D:/Projects/UE5 Course/FlappyBird/Content/SFX/zapsplat_cartoon_frog_jump_26526.uasset" 177
-"D:/Projects/UE5 Course/FlappyBird/Content/SFX/zapsplat_cartoon_frog_jump_26526.uexp" 178
-"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Meta/IA_Jump.uasset" 179
-"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Meta/IA_Jump.uexp" 180
-"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Meta/Input_Mapping.uasset" 181
-"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Meta/Input_Mapping.uexp" 182
-"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Meta/CON_Player_Controller.uasset" 183
-"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Meta/CON_Player_Controller.uexp" 184
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 185
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 186
-"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Meta/PZD_Player_Character.uasset" 187
-"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Meta/PZD_Player_Character.uexp" 188
-"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Meta/GM_Floppy_Bird.uasset" 189
-"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Meta/GM_Floppy_Bird.uexp" 190
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Materials/M_Basic_Wall.uasset" 191
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Materials/M_Basic_Wall.uexp" 192
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Cube.ubulk" 193
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Cube.uasset" 194
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Cube.uexp" 195
-"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Meta/INTR_Pass_Varriable.uasset" 196
-"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Meta/INTR_Pass_Varriable.uexp" 197
-"D:/Projects/UE5 Course/FlappyBird/Content/Sprites/46888871-624a3900-ce7f-11e8-808e-99fd90c8a3f4.uasset" 198
-"D:/Projects/UE5 Course/FlappyBird/Content/Sprites/46888871-624a3900-ce7f-11e8-808e-99fd90c8a3f4.uexp" 199
-"D:/Projects/UE5 Course/FlappyBird/Content/Sprites/46888871-624a3900-ce7f-11e8-808e-99fd90c8a3f4_Mat.uasset" 200
-"D:/Projects/UE5 Course/FlappyBird/Content/Sprites/46888871-624a3900-ce7f-11e8-808e-99fd90c8a3f4_Mat.uexp" 201
-"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Meta/INTR_Reset_Trigger.uasset" 202
-"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Meta/INTR_Reset_Trigger.uexp" 203
-"../../../Engine/Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 204
-"../../../Engine/Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uexp" 205
-"D:/Projects/UE5 Course/FlappyBird/Content/Sprites/Mario_pipe.uasset" 206
-"D:/Projects/UE5 Course/FlappyBird/Content/Sprites/Mario_pipe.uexp" 207
-"D:/Projects/UE5 Course/FlappyBird/Content/Sprites/Mario_pipe_Sprite.uasset" 208
-"D:/Projects/UE5 Course/FlappyBird/Content/Sprites/Mario_pipe_Sprite.uexp" 209
-"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Level/A_Pipe.uasset" 210
-"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Level/A_Pipe.uexp" 211
-"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Level/A_Spawner.uasset" 212
-"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Level/A_Spawner.uexp" 213
-"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Level/A_Moving_Background.uasset" 214
-"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Level/A_Moving_Background.uexp" 215
-"../../../Engine/Plugins/Runtime/MeshModelingToolset/Content/Materials/M_DynamicMeshComponentVtxColor.uasset" 216
-"../../../Engine/Plugins/Runtime/MeshModelingToolset/Content/Materials/M_DynamicMeshComponentVtxColor.uexp" 217
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultTexturePipeline.uasset" 218
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultTexturePipeline.uexp" 219
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneLevelPipeline.uasset" 220
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneLevelPipeline.uexp" 221
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneAssetsPipeline.uasset" 222
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneAssetsPipeline.uexp" 223
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultMaterialXPipeline.uasset" 224
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultMaterialXPipeline.uexp" 225
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultMaterialPipeline.uasset" 226
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultMaterialPipeline.uexp" 227
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultGLTFSceneAssetsPipeline.uasset" 228
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultGLTFSceneAssetsPipeline.uexp" 229
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultGLTFPipeline.uasset" 230
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultGLTFPipeline.uexp" 231
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultGLTFAssetsPipeline.uasset" 232
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultGLTFAssetsPipeline.uexp" 233
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultAssetsPipeline.uasset" 234
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultAssetsPipeline.uexp" 235
-"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_UsdPreviewSurface.uasset" 236
-"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_UsdPreviewSurface.uexp" 237
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 238
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uexp" 239
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Volumetrics/BeersLaw.uasset" 240
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Volumetrics/BeersLaw.uexp" 241
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 242
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uexp" 243
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 244
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uexp" 245
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Temporal_Blur.uasset" 246
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Temporal_Blur.uexp" 247
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Fresnel_DS.uasset" 248
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Fresnel_DS.uexp" 249
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 250
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 251
-"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_Transmission.uasset" 252
-"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_Transmission.uexp" 253
-"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MF_OrenNayerView.uasset" 254
-"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MF_OrenNayerView.uexp" 255
-"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MF_SchlickApprox.uasset" 256
-"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MF_SchlickApprox.uexp" 257
-"../../../Engine/Plugins/Interchange/Runtime/Content/Utilities/New_LUT.uasset" 258
-"../../../Engine/Plugins/Interchange/Runtime/Content/Utilities/New_LUT.uexp" 259
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Math/RemapValueRange.uasset" 260
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Math/RemapValueRange.uexp" 261
-"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MF_Iridescence.uasset" 262
-"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MF_Iridescence.uexp" 263
-"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_StandardSurface.uasset" 264
-"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_StandardSurface.uexp" 265
-"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_TransmissionSurface.uasset" 266
-"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_TransmissionSurface.uexp" 267
-"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_SurfaceUnlit.uasset" 268
-"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_SurfaceUnlit.uexp" 269
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 270
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 271
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 272
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 273
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 274
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 275
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 276
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 277
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 278
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 279
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 280
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 281
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 282
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 283
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uexp" 284
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 285
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 286
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 287
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 288
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 289
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 290
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 291
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 292
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 293
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 294
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uasset" 295
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uexp" 296
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset" 297
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uexp" 298
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 299
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uexp" 300
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 301
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uexp" 302
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 303
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uexp" 304
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uasset" 305
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uexp" 306
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.ubulk" 307
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.uasset" 308
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.uexp" 309
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.ubulk" 310
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.uasset" 311
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.uexp" 312
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.ubulk" 313
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.uasset" 314
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.uexp" 315
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.ubulk" 316
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.uasset" 317
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.uexp" 318
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.ubulk" 319
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.uasset" 320
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.uexp" 321
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.ubulk" 322
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.uasset" 323
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.uexp" 324
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.ubulk" 325
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.uasset" 326
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.uexp" 327
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.ubulk" 328
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.uasset" 329
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.uexp" 330
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.ubulk" 331
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.uasset" 332
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.uexp" 333
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.ubulk" 334
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.uasset" 335
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.uexp" 336
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.ubulk" 337
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.uasset" 338
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.uexp" 339
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.ubulk" 340
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.uasset" 341
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.uexp" 342
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.ubulk" 343
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.uasset" 344
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.uexp" 345
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.ubulk" 346
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uasset" 347
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uexp" 348
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.ubulk" 349
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.uasset" 350
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.uexp" 351
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.ubulk" 352
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.uasset" 353
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.uexp" 354
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.ubulk" 355
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.uasset" 356
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.uexp" 357
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.ubulk" 358
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.uasset" 359
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.uexp" 360
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.ubulk" 361
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.uasset" 362
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.uexp" 363
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.ubulk" 364
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.uasset" 365
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.uexp" 366
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.ubulk" 367
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.uasset" 368
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.uexp" 369
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.ubulk" 370
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.uasset" 371
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.uexp" 372
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.ubulk" 373
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.uasset" 374
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.uexp" 375
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.ubulk" 376
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.uasset" 377
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.uexp" 378
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.ubulk" 379
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.uasset" 380
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.uexp" 381
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.ubulk" 382
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.uasset" 383
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.uexp" 384
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.ubulk" 385
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.uasset" 386
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.uexp" 387
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.ubulk" 388
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.uasset" 389
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.uexp" 390
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.ubulk" 391
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.uasset" 392
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.uexp" 393
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.ubulk" 394
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.uasset" 395
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.uexp" 396
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.ubulk" 397
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.uasset" 398
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.uexp" 399
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.ubulk" 400
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.uasset" 401
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.uexp" 402
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.ubulk" 403
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.uasset" 404
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.uexp" 405
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.ubulk" 406
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.uasset" 407
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.uexp" 408
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.ubulk" 409
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.uasset" 410
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.uexp" 411
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.ubulk" 412
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.uasset" 413
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.uexp" 414
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_solid.ubulk" 415
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_solid.uasset" 416
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_solid.uexp" 417
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.ubulk" 418
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.uasset" 419
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.uexp" 420
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.ubulk" 421
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.uasset" 422
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.uexp" 423
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.ubulk" 424
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.uasset" 425
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.uexp" 426
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.ubulk" 427
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.uasset" 428
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.uexp" 429
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.ubulk" 430
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.uasset" 431
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.uexp" 432
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.ubulk" 433
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.uasset" 434
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.uexp" 435
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.ubulk" 436
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.uasset" 437
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.uexp" 438
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.ubulk" 439
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.uasset" 440
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.uexp" 441
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.ubulk" 442
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.uasset" 443
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.uexp" 444
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.ubulk" 445
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.uasset" 446
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.uexp" 447
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.ubulk" 448
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.uasset" 449
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.uexp" 450
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.ubulk" 451
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.uasset" 452
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.uexp" 453
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.ubulk" 454
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.uasset" 455
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.uexp" 456
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.ubulk" 457
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.uasset" 458
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.uexp" 459
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.ubulk" 460
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.uasset" 461
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.uexp" 462
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.ubulk" 463
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.uasset" 464
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.uexp" 465
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.ubulk" 466
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.uasset" 467
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.uexp" 468
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigXRayMaterial.uasset" 469
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigXRayMaterial.uexp" 470
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigGizmoMaterial.uasset" 471
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigGizmoMaterial.uexp" 472
-"../../../Engine/Content/VREditor/TransformGizmo/StartRotationHandleIndicator.ubulk" 473
-"../../../Engine/Content/VREditor/TransformGizmo/StartRotationHandleIndicator.uasset" 474
-"../../../Engine/Content/VREditor/TransformGizmo/StartRotationHandleIndicator.uexp" 475
-"../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.ubulk" 476
-"../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.uasset" 477
-"../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.uexp" 478
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.ubulk" 479
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 480
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uexp" 481
-"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Grid.ubulk" 482
-"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Grid.uasset" 483
-"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Grid.uexp" 484
-"../../../Engine/Content/VREditor/Sounds/UI/Selection_Changes.ubulk" 485
-"../../../Engine/Content/VREditor/Sounds/UI/Selection_Changes.uasset" 486
-"../../../Engine/Content/VREditor/Sounds/UI/Selection_Changes.uexp" 487
-"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Another_Actor.ubulk" 488
-"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Another_Actor.uasset" 489
-"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Another_Actor.uexp" 490
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uasset" 491
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uexp" 492
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoFreeRotation.ubulk" 493
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoFreeRotation.uasset" 494
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoFreeRotation.uexp" 495
-"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Down.ubulk" 496
-"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Down.uasset" 497
-"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Down.uexp" 498
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset" 499
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uexp" 500
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SplitComponents.uasset" 501
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SplitComponents.uexp" 502
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 503
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uexp" 504
-"../../../Engine/Content/VREditor/SnapGrid/SnapGridMaterial.uasset" 505
-"../../../Engine/Content/VREditor/SnapGrid/SnapGridMaterial.uexp" 506
-"../../../Engine/Content/VREditor/SnapGrid/SnapGridPlaneMesh.ubulk" 507
-"../../../Engine/Content/VREditor/SnapGrid/SnapGridPlaneMesh.uasset" 508
-"../../../Engine/Content/VREditor/SnapGrid/SnapGridPlaneMesh.uexp" 509
-"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Up.ubulk" 510
-"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Up.uasset" 511
-"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Up.uexp" 512
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial_Inst.uasset" 513
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial_Inst.uexp" 514
-"../../../Engine/Content/VREditor/Sounds/UI/Gizmo_Handle_Clicked.ubulk" 515
-"../../../Engine/Content/VREditor/Sounds/UI/Gizmo_Handle_Clicked.uasset" 516
-"../../../Engine/Content/VREditor/Sounds/UI/Gizmo_Handle_Clicked.uexp" 517
-"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleQuarter.ubulk" 518
-"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleQuarter.uasset" 519
-"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleQuarter.uexp" 520
-"../../../Engine/Content/VREditor/TransformGizmo/TranslateArrowHandle.ubulk" 521
-"../../../Engine/Content/VREditor/TransformGizmo/TranslateArrowHandle.uasset" 522
-"../../../Engine/Content/VREditor/TransformGizmo/TranslateArrowHandle.uexp" 523
-"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleIndicator.ubulk" 524
-"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleIndicator.uasset" 525
-"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleIndicator.uexp" 526
-"../../../Engine/Content/VREditor/TransformGizmo/UniformScaleHandle.ubulk" 527
-"../../../Engine/Content/VREditor/TransformGizmo/UniformScaleHandle.uasset" 528
-"../../../Engine/Content/VREditor/TransformGizmo/UniformScaleHandle.uexp" 529
-"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleFull.ubulk" 530
-"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleFull.uasset" 531
-"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleFull.uexp" 532
-"../../../Engine/Content/VREditor/Sounds/UI/Object_PickUp.ubulk" 533
-"../../../Engine/Content/VREditor/Sounds/UI/Object_PickUp.uasset" 534
-"../../../Engine/Content/VREditor/Sounds/UI/Object_PickUp.uexp" 535
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 536
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uexp" 537
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 538
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uexp" 539
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 540
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uexp" 541
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 542
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uexp" 543
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 544
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uexp" 545
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 546
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uexp" 547
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 548
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uexp" 549
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 550
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uexp" 551
-"../../../Engine/Content/EngineMaterials/STBlueNoise_vec2_128x128x64.uasset" 552
-"../../../Engine/Content/EngineMaterials/STBlueNoise_vec2_128x128x64.uexp" 553
-"../../../Engine/Content/EngineMaterials/STBlueNoise_scalar_128x128x64.uasset" 554
-"../../../Engine/Content/EngineMaterials/STBlueNoise_scalar_128x128x64.uexp" 555
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 556
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uexp" 557
-"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset" 558
-"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uexp" 559
-"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uasset" 560
-"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uexp" 561
-"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset" 562
-"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uexp" 563
-"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uasset" 564
-"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uexp" 565
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 566
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uexp" 567
-"../../../Engine/Content/EngineMaterials/NaniteHiddenSectionMaterial.uasset" 568
-"../../../Engine/Content/EngineMaterials/NaniteHiddenSectionMaterial.uexp" 569
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.ubulk" 570
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 571
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uexp" 572
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 573
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uexp" 574
-"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 575
-"../../../Engine/Content/EngineMaterials/GizmoMaterial.uexp" 576
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap_VT.uasset" 577
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap_VT.uexp" 578
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap_VT.uasset" 579
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap_VT.uexp" 580
-"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor_VT.uasset" 581
-"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor_VT.uexp" 582
-"../../../Engine/Content/EngineMaterials/Black_1x1_EXR_Texture_VT.uasset" 583
-"../../../Engine/Content/EngineMaterials/Black_1x1_EXR_Texture_VT.uexp" 584
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap_VT.uasset" 585
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap_VT.uexp" 586
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap_VT.uasset" 587
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap_VT.uexp" 588
-"../../../Engine/Content/EngineMaterials/FlattenMaterial_VT.uasset" 589
-"../../../Engine/Content/EngineMaterials/FlattenMaterial_VT.uexp" 590
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 591
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uexp" 592
-"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 593
-"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uexp" 594
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 595
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uexp" 596
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 597
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uexp" 598
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.ubulk" 599
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 600
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uexp" 601
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 602
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uexp" 603
-"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 604
-"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uexp" 605
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 606
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uexp" 607
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 608
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uexp" 609
-"../../../Engine/Content/EngineMaterials/DefaultDestructiblePhysicalMaterial.uasset" 610
-"../../../Engine/Content/EngineMaterials/DefaultDestructiblePhysicalMaterial.uexp" 611
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 612
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uexp" 613
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 614
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uexp" 615
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uexp" 616
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 617
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont" 618
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uexp" 619
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 620
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont" 621
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uexp" 622
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 623
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont" 624
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uexp" 625
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 626
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont" 627
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uexp" 628
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 629
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.ufont" 630
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uexp" 631
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 632
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont" 633
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 634
-"../../../Engine/Content/EngineFonts/Roboto.uexp" 635
-"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 636
-"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uexp" 637
-"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 638
-"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uexp" 639
-"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 640
-"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uexp" 641
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 642
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uexp" 643
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 644
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uexp" 645
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 646
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uexp" 647
-"../../../Engine/Content/EditorResources/S_Terrain.ubulk" 648
-"../../../Engine/Content/EditorResources/S_Terrain.uasset" 649
-"../../../Engine/Content/EditorResources/S_Terrain.uexp" 650
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 651
-"../../../Engine/Content/EditorResources/EmptyActor.uexp" 652
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 653
-"../../../Engine/Content/EditorResources/BSPVertex.uexp" 654
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 152
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uexp" 153
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 154
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uexp" 155
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 156
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uexp" 157
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 158
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uexp" 159
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 160
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uexp" 161
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 162
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uexp" 163
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 164
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uexp" 165
+"../../../Engine/Content/EditorResources/S_Terrain.ubulk" 166
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 167
+"../../../Engine/Content/EditorResources/S_Terrain.uexp" 168
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 169
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 170
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 171
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 172
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 173
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 174
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 175
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 176
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 177
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 178
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 179
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 180
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 181
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 182
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 183
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 184
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uexp" 185
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 186
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 187
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 188
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 189
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 190
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 191
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 192
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 193
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 194
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 195
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uasset" 196
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uexp" 197
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset" 198
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uexp" 199
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 200
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uexp" 201
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 202
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uexp" 203
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 204
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uexp" 205
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uasset" 206
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uexp" 207
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.ubulk" 208
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.uasset" 209
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.uexp" 210
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.ubulk" 211
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.uasset" 212
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.uexp" 213
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.ubulk" 214
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.uasset" 215
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.uexp" 216
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.ubulk" 217
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.uasset" 218
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.uexp" 219
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.ubulk" 220
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.uasset" 221
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.uexp" 222
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.ubulk" 223
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.uasset" 224
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.uexp" 225
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.ubulk" 226
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.uasset" 227
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.uexp" 228
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.ubulk" 229
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.uasset" 230
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.uexp" 231
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.ubulk" 232
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.uasset" 233
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.uexp" 234
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.ubulk" 235
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.uasset" 236
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.uexp" 237
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.ubulk" 238
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.uasset" 239
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.uexp" 240
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.ubulk" 241
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.uasset" 242
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.uexp" 243
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.ubulk" 244
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.uasset" 245
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.uexp" 246
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.ubulk" 247
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uasset" 248
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uexp" 249
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.ubulk" 250
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.uasset" 251
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.uexp" 252
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.ubulk" 253
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.uasset" 254
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.uexp" 255
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.ubulk" 256
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.uasset" 257
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.uexp" 258
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.ubulk" 259
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.uasset" 260
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.uexp" 261
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.ubulk" 262
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.uasset" 263
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.uexp" 264
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.ubulk" 265
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.uasset" 266
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.uexp" 267
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.ubulk" 268
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.uasset" 269
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.uexp" 270
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.ubulk" 271
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.uasset" 272
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.uexp" 273
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.ubulk" 274
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.uasset" 275
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.uexp" 276
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.ubulk" 277
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.uasset" 278
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.uexp" 279
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.ubulk" 280
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.uasset" 281
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.uexp" 282
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.ubulk" 283
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.uasset" 284
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.uexp" 285
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.ubulk" 286
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.uasset" 287
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.uexp" 288
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.ubulk" 289
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.uasset" 290
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.uexp" 291
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.ubulk" 292
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.uasset" 293
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.uexp" 294
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.ubulk" 295
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.uasset" 296
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.uexp" 297
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.ubulk" 298
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.uasset" 299
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.uexp" 300
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.ubulk" 301
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.uasset" 302
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.uexp" 303
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.ubulk" 304
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.uasset" 305
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.uexp" 306
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.ubulk" 307
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.uasset" 308
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.uexp" 309
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.ubulk" 310
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.uasset" 311
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.uexp" 312
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.ubulk" 313
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.uasset" 314
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.uexp" 315
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_solid.ubulk" 316
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_solid.uasset" 317
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_solid.uexp" 318
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.ubulk" 319
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.uasset" 320
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.uexp" 321
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.ubulk" 322
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.uasset" 323
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.uexp" 324
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.ubulk" 325
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.uasset" 326
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.uexp" 327
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.ubulk" 328
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.uasset" 329
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.uexp" 330
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.ubulk" 331
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.uasset" 332
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.uexp" 333
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.ubulk" 334
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.uasset" 335
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.uexp" 336
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.ubulk" 337
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.uasset" 338
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.uexp" 339
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.ubulk" 340
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.uasset" 341
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.uexp" 342
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.ubulk" 343
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.uasset" 344
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.uexp" 345
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.ubulk" 346
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.uasset" 347
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.uexp" 348
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.ubulk" 349
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.uasset" 350
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.uexp" 351
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.ubulk" 352
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.uasset" 353
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.uexp" 354
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.ubulk" 355
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.uasset" 356
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.uexp" 357
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.ubulk" 358
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.uasset" 359
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.uexp" 360
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.ubulk" 361
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.uasset" 362
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.uexp" 363
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.ubulk" 364
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.uasset" 365
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.uexp" 366
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultTexturePipeline.uasset" 367
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultTexturePipeline.uexp" 368
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneLevelPipeline.uasset" 369
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneLevelPipeline.uexp" 370
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneAssetsPipeline.uasset" 371
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneAssetsPipeline.uexp" 372
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultMaterialXPipeline.uasset" 373
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultMaterialXPipeline.uexp" 374
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultMaterialPipeline.uasset" 375
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultMaterialPipeline.uexp" 376
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultGLTFSceneAssetsPipeline.uasset" 377
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultGLTFSceneAssetsPipeline.uexp" 378
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultGLTFPipeline.uasset" 379
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultGLTFPipeline.uexp" 380
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultGLTFAssetsPipeline.uasset" 381
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultGLTFAssetsPipeline.uexp" 382
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultAssetsPipeline.uasset" 383
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultAssetsPipeline.uexp" 384
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_UsdPreviewSurface.uasset" 385
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_UsdPreviewSurface.uexp" 386
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Volumetrics/BeersLaw.uasset" 387
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Volumetrics/BeersLaw.uexp" 388
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 389
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uexp" 390
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 391
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uexp" 392
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Temporal_Blur.uasset" 393
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Temporal_Blur.uexp" 394
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Fresnel_DS.uasset" 395
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Fresnel_DS.uexp" 396
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_Transmission.uasset" 397
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_Transmission.uexp" 398
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MF_OrenNayerView.uasset" 399
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MF_OrenNayerView.uexp" 400
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MF_SchlickApprox.uasset" 401
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MF_SchlickApprox.uexp" 402
+"../../../Engine/Plugins/Interchange/Runtime/Content/Utilities/New_LUT.uasset" 403
+"../../../Engine/Plugins/Interchange/Runtime/Content/Utilities/New_LUT.uexp" 404
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Math/RemapValueRange.uasset" 405
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Math/RemapValueRange.uexp" 406
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MF_Iridescence.uasset" 407
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MF_Iridescence.uexp" 408
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_StandardSurface.uasset" 409
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_StandardSurface.uexp" 410
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_TransmissionSurface.uasset" 411
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_TransmissionSurface.uexp" 412
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_SurfaceUnlit.uasset" 413
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_SurfaceUnlit.uexp" 414
+"D:/Projects/UE5 Course/FlappyBird/Content/SFX/zapsplat_cartoon_springing_boing_jump_jaw_harp_001_72946.ubulk" 415
+"D:/Projects/UE5 Course/FlappyBird/Content/SFX/zapsplat_cartoon_springing_boing_jump_jaw_harp_001_72946.uasset" 416
+"D:/Projects/UE5 Course/FlappyBird/Content/SFX/zapsplat_cartoon_springing_boing_jump_jaw_harp_001_72946.uexp" 417
+"D:/Projects/UE5 Course/FlappyBird/Content/SFX/zapsplat_cartoon_bounce_jump_short_hop_001_67997.ubulk" 418
+"D:/Projects/UE5 Course/FlappyBird/Content/SFX/zapsplat_cartoon_bounce_jump_short_hop_001_67997.uasset" 419
+"D:/Projects/UE5 Course/FlappyBird/Content/SFX/zapsplat_cartoon_bounce_jump_short_hop_001_67997.uexp" 420
+"D:/Projects/UE5 Course/FlappyBird/Content/Sprites/Bird.ubulk" 421
+"D:/Projects/UE5 Course/FlappyBird/Content/Sprites/Bird.uasset" 422
+"D:/Projects/UE5 Course/FlappyBird/Content/Sprites/Bird.uexp" 423
+"D:/Projects/UE5 Course/FlappyBird/Content/Sprites/Bird_Sprite.uasset" 424
+"D:/Projects/UE5 Course/FlappyBird/Content/Sprites/Bird_Sprite.uexp" 425
+"D:/Projects/UE5 Course/FlappyBird/Content/Sprites/Bird_Flipbook.uasset" 426
+"D:/Projects/UE5 Course/FlappyBird/Content/Sprites/Bird_Flipbook.uexp" 427
+"D:/Projects/UE5 Course/FlappyBird/Content/SFX/zapsplat_cartoon_frog_jump_26526.ubulk" 428
+"D:/Projects/UE5 Course/FlappyBird/Content/SFX/zapsplat_cartoon_frog_jump_26526.uasset" 429
+"D:/Projects/UE5 Course/FlappyBird/Content/SFX/zapsplat_cartoon_frog_jump_26526.uexp" 430
+"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Meta/IA_Jump.uasset" 431
+"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Meta/IA_Jump.uexp" 432
+"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Meta/Input_Mapping.uasset" 433
+"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Meta/Input_Mapping.uexp" 434
+"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Meta/CON_Player_Controller.uasset" 435
+"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Meta/CON_Player_Controller.uexp" 436
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 437
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 438
+"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Meta/PZD_Player_Character.uasset" 439
+"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Meta/PZD_Player_Character.uexp" 440
+"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Meta/GM_Floppy_Bird.uasset" 441
+"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Meta/GM_Floppy_Bird.uexp" 442
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Materials/M_Basic_Wall.uasset" 443
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Materials/M_Basic_Wall.uexp" 444
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Cube.ubulk" 445
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Cube.uasset" 446
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Cube.uexp" 447
+"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Meta/INTR_Pass_Varriable.uasset" 448
+"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Meta/INTR_Pass_Varriable.uexp" 449
+"D:/Projects/UE5 Course/FlappyBird/Content/Sprites/46888871-624a3900-ce7f-11e8-808e-99fd90c8a3f4.uasset" 450
+"D:/Projects/UE5 Course/FlappyBird/Content/Sprites/46888871-624a3900-ce7f-11e8-808e-99fd90c8a3f4.uexp" 451
+"D:/Projects/UE5 Course/FlappyBird/Content/Sprites/46888871-624a3900-ce7f-11e8-808e-99fd90c8a3f4_Mat.uasset" 452
+"D:/Projects/UE5 Course/FlappyBird/Content/Sprites/46888871-624a3900-ce7f-11e8-808e-99fd90c8a3f4_Mat.uexp" 453
+"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Meta/INTR_Reset_Trigger.uasset" 454
+"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Meta/INTR_Reset_Trigger.uexp" 455
+"../../../Engine/Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 456
+"../../../Engine/Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uexp" 457
+"D:/Projects/UE5 Course/FlappyBird/Content/Sprites/Mario_pipe.uasset" 458
+"D:/Projects/UE5 Course/FlappyBird/Content/Sprites/Mario_pipe.uexp" 459
+"D:/Projects/UE5 Course/FlappyBird/Content/Sprites/Mario_pipe_Sprite.uasset" 460
+"D:/Projects/UE5 Course/FlappyBird/Content/Sprites/Mario_pipe_Sprite.uexp" 461
+"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Level/A_Pipe.uasset" 462
+"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Level/A_Pipe.uexp" 463
+"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Level/A_Spawner.uasset" 464
+"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Level/A_Spawner.uexp" 465
+"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Level/A_Moving_Background.uasset" 466
+"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Level/A_Moving_Background.uexp" 467
+"../../../Engine/Plugins/Runtime/MeshModelingToolset/Content/Materials/M_DynamicMeshComponentVtxColor.uasset" 468
+"../../../Engine/Plugins/Runtime/MeshModelingToolset/Content/Materials/M_DynamicMeshComponentVtxColor.uexp" 469
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.ubulk" 470
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.uasset" 471
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.uexp" 472
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigXRayMaterial.uasset" 473
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigXRayMaterial.uexp" 474
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigGizmoMaterial.uasset" 475
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigGizmoMaterial.uexp" 476
+"../../../Engine/Content/VREditor/TransformGizmo/StartRotationHandleIndicator.ubulk" 477
+"../../../Engine/Content/VREditor/TransformGizmo/StartRotationHandleIndicator.uasset" 478
+"../../../Engine/Content/VREditor/TransformGizmo/StartRotationHandleIndicator.uexp" 479
+"../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.ubulk" 480
+"../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.uasset" 481
+"../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.uexp" 482
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.ubulk" 483
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 484
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uexp" 485
+"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Grid.ubulk" 486
+"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Grid.uasset" 487
+"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Grid.uexp" 488
+"../../../Engine/Content/VREditor/Sounds/UI/Selection_Changes.ubulk" 489
+"../../../Engine/Content/VREditor/Sounds/UI/Selection_Changes.uasset" 490
+"../../../Engine/Content/VREditor/Sounds/UI/Selection_Changes.uexp" 491
+"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Another_Actor.ubulk" 492
+"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Another_Actor.uasset" 493
+"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Another_Actor.uexp" 494
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uasset" 495
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uexp" 496
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoFreeRotation.ubulk" 497
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoFreeRotation.uasset" 498
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoFreeRotation.uexp" 499
+"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Down.ubulk" 500
+"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Down.uasset" 501
+"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Down.uexp" 502
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset" 503
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uexp" 504
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SplitComponents.uasset" 505
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SplitComponents.uexp" 506
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 507
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uexp" 508
+"../../../Engine/Content/VREditor/SnapGrid/SnapGridMaterial.uasset" 509
+"../../../Engine/Content/VREditor/SnapGrid/SnapGridMaterial.uexp" 510
+"../../../Engine/Content/VREditor/SnapGrid/SnapGridPlaneMesh.ubulk" 511
+"../../../Engine/Content/VREditor/SnapGrid/SnapGridPlaneMesh.uasset" 512
+"../../../Engine/Content/VREditor/SnapGrid/SnapGridPlaneMesh.uexp" 513
+"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Up.ubulk" 514
+"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Up.uasset" 515
+"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Up.uexp" 516
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial_Inst.uasset" 517
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial_Inst.uexp" 518
+"../../../Engine/Content/VREditor/Sounds/UI/Gizmo_Handle_Clicked.ubulk" 519
+"../../../Engine/Content/VREditor/Sounds/UI/Gizmo_Handle_Clicked.uasset" 520
+"../../../Engine/Content/VREditor/Sounds/UI/Gizmo_Handle_Clicked.uexp" 521
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleQuarter.ubulk" 522
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleQuarter.uasset" 523
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleQuarter.uexp" 524
+"../../../Engine/Content/VREditor/TransformGizmo/TranslateArrowHandle.ubulk" 525
+"../../../Engine/Content/VREditor/TransformGizmo/TranslateArrowHandle.uasset" 526
+"../../../Engine/Content/VREditor/TransformGizmo/TranslateArrowHandle.uexp" 527
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleIndicator.ubulk" 528
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleIndicator.uasset" 529
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleIndicator.uexp" 530
+"../../../Engine/Content/VREditor/TransformGizmo/UniformScaleHandle.ubulk" 531
+"../../../Engine/Content/VREditor/TransformGizmo/UniformScaleHandle.uasset" 532
+"../../../Engine/Content/VREditor/TransformGizmo/UniformScaleHandle.uexp" 533
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleFull.ubulk" 534
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleFull.uasset" 535
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleFull.uexp" 536
+"../../../Engine/Content/VREditor/Sounds/UI/Object_PickUp.ubulk" 537
+"../../../Engine/Content/VREditor/Sounds/UI/Object_PickUp.uasset" 538
+"../../../Engine/Content/VREditor/Sounds/UI/Object_PickUp.uexp" 539
+"../../../Engine/Content/EngineSounds/Master.uasset" 540
+"../../../Engine/Content/EngineSounds/Master.uexp" 541
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 542
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uexp" 543
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 544
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uexp" 545
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 546
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uexp" 547
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 548
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uexp" 549
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 550
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uexp" 551
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 552
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uexp" 553
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 554
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uexp" 555
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 556
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uexp" 557
+"../../../Engine/Content/EngineMaterials/STBlueNoise_vec2_128x128x64.uasset" 558
+"../../../Engine/Content/EngineMaterials/STBlueNoise_vec2_128x128x64.uexp" 559
+"../../../Engine/Content/EngineMaterials/STBlueNoise_scalar_128x128x64.uasset" 560
+"../../../Engine/Content/EngineMaterials/STBlueNoise_scalar_128x128x64.uexp" 561
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 562
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uexp" 563
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset" 564
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uexp" 565
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uasset" 566
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uexp" 567
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset" 568
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uexp" 569
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uasset" 570
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uexp" 571
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 572
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uexp" 573
+"../../../Engine/Content/EngineMaterials/NaniteHiddenSectionMaterial.uasset" 574
+"../../../Engine/Content/EngineMaterials/NaniteHiddenSectionMaterial.uexp" 575
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.ubulk" 576
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 577
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uexp" 578
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 579
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uexp" 580
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 581
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uexp" 582
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap_VT.uasset" 583
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap_VT.uexp" 584
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap_VT.uasset" 585
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap_VT.uexp" 586
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor_VT.uasset" 587
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor_VT.uexp" 588
+"../../../Engine/Content/EngineMaterials/Black_1x1_EXR_Texture_VT.uasset" 589
+"../../../Engine/Content/EngineMaterials/Black_1x1_EXR_Texture_VT.uexp" 590
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap_VT.uasset" 591
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap_VT.uexp" 592
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap_VT.uasset" 593
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap_VT.uexp" 594
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_VT.uasset" 595
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_VT.uexp" 596
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 597
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uexp" 598
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 599
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uexp" 600
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 601
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uexp" 602
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 603
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uexp" 604
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.ubulk" 605
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 606
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uexp" 607
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 608
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uexp" 609
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 610
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uexp" 611
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 612
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uexp" 613
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 614
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uexp" 615
+"../../../Engine/Content/EngineMaterials/DefaultDestructiblePhysicalMaterial.uasset" 616
+"../../../Engine/Content/EngineMaterials/DefaultDestructiblePhysicalMaterial.uexp" 617
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 618
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uexp" 619
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 620
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uexp" 621
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uexp" 622
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 623
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont" 624
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uexp" 625
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 626
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont" 627
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uexp" 628
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 629
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont" 630
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uexp" 631
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 632
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont" 633
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uexp" 634
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 635
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.ufont" 636
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uexp" 637
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 638
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont" 639
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 640
+"../../../Engine/Content/EngineFonts/Roboto.uexp" 641
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 642
+"../../../Engine/Content/EditorResources/EmptyActor.uexp" 643
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 644
+"../../../Engine/Content/EditorResources/BSPVertex.uexp" 645
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk" 646
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 647
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uexp" 648
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 649
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uexp" 650
+"../../../Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uasset" 651
+"../../../Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uexp" 652
+"../../../Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uasset" 653
+"../../../Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uexp" 654
 "../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 655
 "../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uexp" 656
 "../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 657
 "../../../Engine/Content/EditorLandscapeResources/DataLayer.uexp" 658
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_WideCapsule.ubulk" 659
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 660
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_WideCapsule.uexp" 661
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Wedge_B.ubulk" 662
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 663
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Wedge_B.uexp" 664
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Wedge_A.ubulk" 665
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 666
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Wedge_A.uexp" 667
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Tube.ubulk" 668
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Tube.uasset" 669
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Tube.uexp" 670
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_TriPyramid.ubulk" 671
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 672
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_TriPyramid.uexp" 673
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Trim_90_Out.ubulk" 674
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 675
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Trim_90_Out.uexp" 676
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Trim_90_In.ubulk" 677
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 678
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Trim_90_In.uexp" 679
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Trim.ubulk" 680
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Trim.uasset" 681
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Trim.uexp" 682
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Torus.ubulk" 683
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Torus.uasset" 684
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Torus.uexp" 685
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Plane.ubulk" 686
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Plane.uasset" 687
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Plane.uexp" 688
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Pipe_90.ubulk" 689
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 690
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Pipe_90.uexp" 691
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Pipe_180.ubulk" 692
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 693
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Pipe_180.uexp" 694
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Pipe.ubulk" 695
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Pipe.uasset" 696
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Pipe.uexp" 697
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_NarrowCapsule.ubulk" 698
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 699
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_NarrowCapsule.uexp" 700
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Cylinder.ubulk" 701
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 702
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Cylinder.uexp" 703
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Cone.ubulk" 704
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Cone.uasset" 705
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Cone.uexp" 706
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 707
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uexp" 708
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 709
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uexp" 710
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 711
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uexp" 712
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/Black_1x1_EXR_Texture.uasset" 713
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/Black_1x1_EXR_Texture.uexp" 714
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 715
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uexp" 716
-"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor.uasset" 717
-"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor.uexp" 718
-"../../../Engine/Content/EngineMaterials/FlattenMaterial.uasset" 719
-"../../../Engine/Content/EngineMaterials/FlattenMaterial.uexp" 720
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/M_Shape_Cube_M_Brick_Clay_Beveled_6B1941144F3BBB8504BE518BF1125E7E.ubulk" 721
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/M_Shape_Cube_M_Brick_Clay_Beveled_6B1941144F3BBB8504BE518BF1125E7E.uasset" 722
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/M_Shape_Cube_M_Brick_Clay_Beveled_6B1941144F3BBB8504BE518BF1125E7E.uexp" 723
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Materials/M_Basic_Floor.uasset" 724
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Materials/M_Basic_Floor.uexp" 725
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/SM_Stairs.ubulk" 726
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/SM_Stairs.uasset" 727
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/SM_Stairs.uexp" 728
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Shelf_N.ubulk" 729
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Shelf_N.uasset" 730
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Shelf_N.uexp" 731
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Shelf_M.ubulk" 732
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Shelf_M.uasset" 733
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Shelf_M.uexp" 734
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/Materials/M_Shelf.uasset" 735
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/Materials/M_Shelf.uexp" 736
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/SM_Shelf.ubulk" 737
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/SM_Shelf.uasset" 738
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/SM_Shelf.uexp" 739
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 740
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uexp" 741
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Detail_Rocky_N.ubulk" 742
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 743
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Detail_Rocky_N.uexp" 744
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Rock_Basalt_D.ubulk" 745
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 746
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Rock_Basalt_D.uexp" 747
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_RockMesh_N.ubulk" 748
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_RockMesh_N.uasset" 749
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_RockMesh_N.uexp" 750
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_RockMesh_M.ubulk" 751
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_RockMesh_M.uasset" 752
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_RockMesh_M.uexp" 753
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/Materials/M_Rock.uasset" 754
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/Materials/M_Rock.uexp" 755
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/SM_Rock.ubulk" 756
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/SM_Rock.uasset" 757
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/SM_Rock.uexp" 758
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Materials/M_Glass.uasset" 759
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Materials/M_Glass.uexp" 760
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Door_N.ubulk" 761
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Door_N.uasset" 762
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Door_N.uexp" 763
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Door_M.ubulk" 764
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Door_M.uasset" 765
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Door_M.uexp" 766
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/Materials/M_Door.uasset" 767
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/Materials/M_Door.uexp" 768
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/SM_Door.ubulk" 769
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/SM_Door.uasset" 770
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/SM_Door.uexp" 771
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Chair_N.ubulk" 772
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Chair_N.uasset" 773
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Chair_N.uexp" 774
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Chair_M.ubulk" 775
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Chair_M.uasset" 776
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Chair_M.uexp" 777
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/Materials/M_Chair.uasset" 778
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/Materials/M_Chair.uexp" 779
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/SM_Couch.ubulk" 780
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/SM_Couch.uasset" 781
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/SM_Couch.uexp" 782
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Bush_N.ubulk" 783
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Bush_N.uasset" 784
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Bush_N.uexp" 785
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Bush_D.ubulk" 786
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Bush_D.uasset" 787
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Bush_D.uexp" 788
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/Materials/M_Bush.uasset" 789
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/Materials/M_Bush.uexp" 790
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/SM_Bush.ubulk" 791
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/SM_Bush.uasset" 792
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/SM_Bush.uexp" 793
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.ubulk" 794
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 795
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uexp" 796
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 797
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uexp" 798
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Smoke_SubUV.ubulk" 799
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 800
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Smoke_SubUV.uexp" 801
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Smoke_Tiled_D.ubulk" 802
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 803
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Smoke_Tiled_D.uexp" 804
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 805
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Particles/Materials/M_smoke_subUV.uexp" 806
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Burst_M.ubulk" 807
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Burst_M.uasset" 808
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Burst_M.uexp" 809
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Particles/Materials/M_Burst.uasset" 810
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Particles/Materials/M_Burst.uexp" 811
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 812
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Particles/Materials/m_flare_01.uexp" 813
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Explosion_SubUV.ubulk" 814
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 815
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Explosion_SubUV.uexp" 816
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 817
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Particles/Materials/M_explosion_subUV.uexp" 818
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 819
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uexp" 820
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 821
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Particles/Materials/M_radial_ramp.uexp" 822
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Particles/P_Explosion.uasset" 823
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Particles/P_Explosion.uexp" 824
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Explosion_Cue.uasset" 825
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Explosion_Cue.uexp" 826
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 827
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uexp" 828
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Steam01.ubulk" 829
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Steam01.uasset" 830
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Steam01.uexp" 831
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Starter_Wind06.ubulk" 832
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Starter_Wind06.uasset" 833
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Starter_Wind06.uexp" 834
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Starter_Wind05.ubulk" 835
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Starter_Wind05.uasset" 836
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Starter_Wind05.uexp" 837
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Starter_Music01.ubulk" 838
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Starter_Music01.uasset" 839
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Starter_Music01.uexp" 840
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Starter_Birds01.ubulk" 841
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Starter_Birds01.uasset" 842
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Starter_Birds01.uexp" 843
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Smoke01.ubulk" 844
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Smoke01.uasset" 845
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Smoke01.uexp" 846
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Light02_Cue.uasset" 847
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Light02_Cue.uexp" 848
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Light02.ubulk" 849
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Light02.uasset" 850
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Light02.uexp" 851
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Light01_Cue.uasset" 852
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Light01_Cue.uexp" 853
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Light01.ubulk" 854
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Light01.uasset" 855
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Light01.uexp" 856
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Fire_Sparks01.ubulk" 857
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Fire_Sparks01.uasset" 858
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Fire_Sparks01.uexp" 859
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Fire01.ubulk" 860
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Fire01.uasset" 861
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Fire01.uexp" 862
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Explosion02.ubulk" 863
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Explosion02.uasset" 864
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Explosion02.uexp" 865
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Explosion01.ubulk" 866
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Explosion01.uasset" 867
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Explosion01.uexp" 868
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Collapse02.ubulk" 869
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Collapse02.uasset" 870
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Collapse02.uexp" 871
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Collapse01.ubulk" 872
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Collapse01.uasset" 873
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Collapse01.uexp" 874
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Architecture/Wall_Window_400x400.ubulk" 875
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 876
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Architecture/Wall_Window_400x400.uexp" 877
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Architecture/Wall_Door_400x400.ubulk" 878
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 879
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Architecture/Wall_Door_400x400.uexp" 880
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Architecture/Wall_500x500.ubulk" 881
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Architecture/Wall_500x500.uasset" 882
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Architecture/Wall_500x500.uexp" 883
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Architecture/Wall_400x400.ubulk" 884
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Architecture/Wall_400x400.uasset" 885
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Architecture/Wall_400x400.uexp" 886
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Architecture/Wall_400x300.ubulk" 887
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Architecture/Wall_400x300.uasset" 888
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Architecture/Wall_400x300.uexp" 889
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Architecture/Pillar_50x500.ubulk" 890
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Architecture/Pillar_50x500.uasset" 891
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Architecture/Pillar_50x500.uexp" 892
-"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Meta/PZD_Animation_Source.uasset" 893
-"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Meta/PZD_Animation_Source.uexp" 894
-"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Level/A_Pipe_Child_Top.uasset" 895
-"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Level/A_Pipe_Child_Top.uexp" 896
-"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Level/A_Pipe_Child_Bottom.uasset" 897
-"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Level/A_Pipe_Child_Bottom.uexp" 898
-"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Level/A_Pipe_Child_Middle.uasset" 899
-"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Level/A_Pipe_Child_Middle.uexp" 900
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_RotateV2.uasset" 901
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_RotateV2.uexp" 902
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_TransformUVs.uasset" 903
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_TransformUVs.uexp" 904
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_White_srgb.uasset" 905
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_White_srgb.uexp" 906
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_BaseColor.uasset" 907
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_BaseColor.uexp" 908
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialBodies/MF_Unlit_Body.uasset" 909
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialBodies/MF_Unlit_Body.uexp" 910
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Unlit.uasset" 911
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Unlit.uexp" 912
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Unlit_Opaque_DS.uasset" 913
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Unlit_Opaque_DS.uexp" 914
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Unlit_Opaque.uasset" 915
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Unlit_Opaque.uexp" 916
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Unlit_Mask_DS.uasset" 917
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Unlit_Mask_DS.uexp" 918
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Unlit_Mask.uasset" 919
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Unlit_Mask.uexp" 920
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Unlit_Blend_DS.uasset" 921
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Unlit_Blend_DS.uexp" 922
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Unlit_Blend.uasset" 923
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Unlit_Blend.uexp" 924
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_White_Linear.uasset" 925
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_White_Linear.uexp" 926
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_MetallicRoughness.uasset" 927
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_MetallicRoughness.uexp" 928
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Transmission.uasset" 929
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Transmission.uexp" 930
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Occlusion.uasset" 931
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Occlusion.uexp" 932
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Specular.uasset" 933
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Specular.uexp" 934
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_RotateNormals_TS.uasset" 935
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_RotateNormals_TS.uexp" 936
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_Generic_N.uasset" 937
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_Generic_N.uexp" 938
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Normals.uasset" 939
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Normals.uexp" 940
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialBodies/MF_Transmission_Body.uasset" 941
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialBodies/MF_Transmission_Body.uexp" 942
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Transmission.uasset" 943
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Transmission.uexp" 944
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Transmission_DS.uasset" 945
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Transmission_DS.uexp" 946
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Transmission.uasset" 947
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Transmission.uexp" 948
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_DiffuseSpecGloss.uasset" 949
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_DiffuseSpecGloss.uexp" 950
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/AddComponents.uasset" 951
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/AddComponents.uexp" 952
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_PerceivedBrightness.uasset" 953
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_PerceivedBrightness.uexp" 954
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Emissive.uasset" 955
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Emissive.uexp" 956
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_SpecGlossToMetalRoughness.uasset" 957
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_SpecGlossToMetalRoughness.uexp" 958
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialBodies/MF_SpecularGlossiness_Body.uasset" 959
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialBodies/MF_SpecularGlossiness_Body.uexp" 960
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_SpecularGlossiness.uasset" 961
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_SpecularGlossiness.uexp" 962
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque_DS.uasset" 963
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque_DS.uexp" 964
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque.uasset" 965
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque.uexp" 966
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS.uasset" 967
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS.uexp" 968
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Mask.uasset" 969
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Mask.uexp" 970
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Blend_DS.uasset" 971
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Blend_DS.uexp" 972
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Blend.uasset" 973
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Blend.uexp" 974
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Sheen.uasset" 975
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Sheen.uexp" 976
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_IOR.uasset" 977
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_IOR.uexp" 978
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialBodies/MF_Sheen_Body.uasset" 979
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialBodies/MF_Sheen_Body.uexp" 980
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Sheen.uasset" 981
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Sheen.uexp" 982
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Sheen_Opaque_DS.uasset" 983
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Sheen_Opaque_DS.uexp" 984
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Sheen_Opaque.uasset" 985
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Sheen_Opaque.uexp" 986
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Sheen_Mask_DS.uasset" 987
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Sheen_Mask_DS.uexp" 988
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Sheen_Mask.uasset" 989
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Sheen_Mask.uexp" 990
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Sheen_Blend_DS.uasset" 991
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Sheen_Blend_DS.uexp" 992
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Sheen_Blend.uasset" 993
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Sheen_Blend.uexp" 994
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialBodies/MF_Default_Body.uasset" 995
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialBodies/MF_Default_Body.uexp" 996
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Default.uasset" 997
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Default.uexp" 998
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Default_Opaque_DS.uasset" 999
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Default_Opaque_DS.uexp" 1000
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Default_Opaque.uasset" 1001
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Default_Opaque.uexp" 1002
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Default_Mask_DS.uasset" 1003
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Default_Mask_DS.uexp" 1004
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Default_Mask.uasset" 1005
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Default_Mask.uexp" 1006
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Default_Blend_DS.uasset" 1007
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Default_Blend_DS.uexp" 1008
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Default_Blend.uasset" 1009
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Default_Blend.uexp" 1010
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 1011
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uexp" 1012
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Clearcoat.uasset" 1013
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Clearcoat.uexp" 1014
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialBodies/MF_ClearCoat_Body.uasset" 1015
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialBodies/MF_ClearCoat_Body.uexp" 1016
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_ClearCoat.uasset" 1017
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_ClearCoat.uexp" 1018
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_ClearCoat_Opaque_DS.uasset" 1019
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_ClearCoat_Opaque_DS.uexp" 1020
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_ClearCoat_Opaque.uasset" 1021
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_ClearCoat_Opaque.uexp" 1022
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_ClearCoat_Mask_DS.uasset" 1023
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_ClearCoat_Mask_DS.uexp" 1024
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_ClearCoat_Mask.uasset" 1025
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_ClearCoat_Mask.uexp" 1026
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_ClearCoat_Blend_DS.uasset" 1027
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_ClearCoat_Blend_DS.uexp" 1028
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_ClearCoat_Blend.uasset" 1029
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_ClearCoat_Blend.uexp" 1030
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 1031
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uexp" 1032
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 1033
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uexp" 1034
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 1035
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uexp" 1036
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 1037
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uexp" 1038
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 1039
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uexp" 1040
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 1041
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uexp" 1042
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.ubulk" 1043
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 1044
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uexp" 1045
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 1046
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uexp" 1047
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.ubulk" 1048
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 1049
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uexp" 1050
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 1051
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uexp" 1052
-"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 1053
-"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uexp" 1054
-"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 1055
-"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uexp" 1056
-"../../../Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uasset" 1057
-"../../../Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uexp" 1058
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 1059
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uexp" 1060
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 1061
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uexp" 1062
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 1063
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uexp" 1064
-"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 1065
-"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uexp" 1066
-"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 1067
-"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uexp" 1068
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 659
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uexp" 660
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 661
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uexp" 662
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 663
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uexp" 664
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 665
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uexp" 666
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 667
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uexp" 668
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_WideCapsule.ubulk" 669
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 670
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_WideCapsule.uexp" 671
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Wedge_B.ubulk" 672
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 673
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Wedge_B.uexp" 674
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Wedge_A.ubulk" 675
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 676
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Wedge_A.uexp" 677
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Tube.ubulk" 678
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Tube.uasset" 679
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Tube.uexp" 680
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_TriPyramid.ubulk" 681
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 682
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_TriPyramid.uexp" 683
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Trim_90_Out.ubulk" 684
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 685
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Trim_90_Out.uexp" 686
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Trim_90_In.ubulk" 687
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 688
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Trim_90_In.uexp" 689
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Trim.ubulk" 690
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Trim.uasset" 691
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Trim.uexp" 692
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Torus.ubulk" 693
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Torus.uasset" 694
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Torus.uexp" 695
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Plane.ubulk" 696
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Plane.uasset" 697
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Plane.uexp" 698
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Pipe_90.ubulk" 699
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 700
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Pipe_90.uexp" 701
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Pipe_180.ubulk" 702
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 703
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Pipe_180.uexp" 704
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Pipe.ubulk" 705
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Pipe.uasset" 706
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Pipe.uexp" 707
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_NarrowCapsule.ubulk" 708
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 709
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_NarrowCapsule.uexp" 710
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Cylinder.ubulk" 711
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 712
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Cylinder.uexp" 713
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Cone.ubulk" 714
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Cone.uasset" 715
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/Shape_Cone.uexp" 716
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 717
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uexp" 718
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 719
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uexp" 720
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 721
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uexp" 722
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/Black_1x1_EXR_Texture.uasset" 723
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/Black_1x1_EXR_Texture.uexp" 724
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 725
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uexp" 726
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor.uasset" 727
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor.uexp" 728
+"../../../Engine/Content/EngineMaterials/FlattenMaterial.uasset" 729
+"../../../Engine/Content/EngineMaterials/FlattenMaterial.uexp" 730
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/M_Shape_Cube_M_Brick_Clay_Beveled_6B1941144F3BBB8504BE518BF1125E7E.ubulk" 731
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/M_Shape_Cube_M_Brick_Clay_Beveled_6B1941144F3BBB8504BE518BF1125E7E.uasset" 732
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Shapes/M_Shape_Cube_M_Brick_Clay_Beveled_6B1941144F3BBB8504BE518BF1125E7E.uexp" 733
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Materials/M_Basic_Floor.uasset" 734
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Materials/M_Basic_Floor.uexp" 735
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/SM_Stairs.ubulk" 736
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/SM_Stairs.uasset" 737
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/SM_Stairs.uexp" 738
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Shelf_N.ubulk" 739
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Shelf_N.uasset" 740
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Shelf_N.uexp" 741
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Shelf_M.ubulk" 742
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Shelf_M.uasset" 743
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Shelf_M.uexp" 744
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/Materials/M_Shelf.uasset" 745
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/Materials/M_Shelf.uexp" 746
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/SM_Shelf.ubulk" 747
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/SM_Shelf.uasset" 748
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/SM_Shelf.uexp" 749
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 750
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uexp" 751
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Detail_Rocky_N.ubulk" 752
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 753
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Detail_Rocky_N.uexp" 754
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Rock_Basalt_D.ubulk" 755
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 756
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Rock_Basalt_D.uexp" 757
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_RockMesh_N.ubulk" 758
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_RockMesh_N.uasset" 759
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_RockMesh_N.uexp" 760
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_RockMesh_M.ubulk" 761
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_RockMesh_M.uasset" 762
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_RockMesh_M.uexp" 763
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/Materials/M_Rock.uasset" 764
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/Materials/M_Rock.uexp" 765
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/SM_Rock.ubulk" 766
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/SM_Rock.uasset" 767
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/SM_Rock.uexp" 768
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Materials/M_Glass.uasset" 769
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Materials/M_Glass.uexp" 770
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Door_N.ubulk" 771
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Door_N.uasset" 772
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Door_N.uexp" 773
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Door_M.ubulk" 774
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Door_M.uasset" 775
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Door_M.uexp" 776
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/Materials/M_Door.uasset" 777
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/Materials/M_Door.uexp" 778
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/SM_Door.ubulk" 779
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/SM_Door.uasset" 780
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/SM_Door.uexp" 781
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Chair_N.ubulk" 782
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Chair_N.uasset" 783
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Chair_N.uexp" 784
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Chair_M.ubulk" 785
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Chair_M.uasset" 786
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Chair_M.uexp" 787
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/Materials/M_Chair.uasset" 788
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/Materials/M_Chair.uexp" 789
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/SM_Couch.ubulk" 790
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/SM_Couch.uasset" 791
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/SM_Couch.uexp" 792
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Bush_N.ubulk" 793
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Bush_N.uasset" 794
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Bush_N.uexp" 795
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Bush_D.ubulk" 796
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Bush_D.uasset" 797
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Bush_D.uexp" 798
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/Materials/M_Bush.uasset" 799
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/Materials/M_Bush.uexp" 800
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/SM_Bush.ubulk" 801
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/SM_Bush.uasset" 802
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Props/SM_Bush.uexp" 803
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.ubulk" 804
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 805
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uexp" 806
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 807
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uexp" 808
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Smoke_SubUV.ubulk" 809
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 810
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Smoke_SubUV.uexp" 811
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Smoke_Tiled_D.ubulk" 812
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 813
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Smoke_Tiled_D.uexp" 814
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 815
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Particles/Materials/M_smoke_subUV.uexp" 816
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Burst_M.ubulk" 817
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Burst_M.uasset" 818
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Burst_M.uexp" 819
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Particles/Materials/M_Burst.uasset" 820
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Particles/Materials/M_Burst.uexp" 821
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 822
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Particles/Materials/m_flare_01.uexp" 823
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Explosion_SubUV.ubulk" 824
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 825
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Explosion_SubUV.uexp" 826
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 827
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Particles/Materials/M_explosion_subUV.uexp" 828
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 829
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uexp" 830
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 831
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Particles/Materials/M_radial_ramp.uexp" 832
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Particles/P_Explosion.uasset" 833
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Particles/P_Explosion.uexp" 834
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Explosion_Cue.uasset" 835
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Explosion_Cue.uexp" 836
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 837
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uexp" 838
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Steam01.ubulk" 839
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Steam01.uasset" 840
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Steam01.uexp" 841
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Starter_Wind06.ubulk" 842
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Starter_Wind06.uasset" 843
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Starter_Wind06.uexp" 844
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Starter_Wind05.ubulk" 845
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Starter_Wind05.uasset" 846
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Starter_Wind05.uexp" 847
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Starter_Music01.ubulk" 848
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Starter_Music01.uasset" 849
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Starter_Music01.uexp" 850
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Starter_Birds01.ubulk" 851
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Starter_Birds01.uasset" 852
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Starter_Birds01.uexp" 853
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Smoke01.ubulk" 854
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Smoke01.uasset" 855
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Smoke01.uexp" 856
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Light02_Cue.uasset" 857
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Light02_Cue.uexp" 858
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Light02.ubulk" 859
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Light02.uasset" 860
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Light02.uexp" 861
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Light01_Cue.uasset" 862
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Light01_Cue.uexp" 863
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Light01.ubulk" 864
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Light01.uasset" 865
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Light01.uexp" 866
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Fire_Sparks01.ubulk" 867
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Fire_Sparks01.uasset" 868
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Fire_Sparks01.uexp" 869
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Fire01.ubulk" 870
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Fire01.uasset" 871
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Fire01.uexp" 872
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Explosion02.ubulk" 873
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Explosion02.uasset" 874
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Explosion02.uexp" 875
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Explosion01.ubulk" 876
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Explosion01.uasset" 877
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Explosion01.uexp" 878
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Collapse02.ubulk" 879
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Collapse02.uasset" 880
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Collapse02.uexp" 881
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Collapse01.ubulk" 882
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Collapse01.uasset" 883
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Audio/Collapse01.uexp" 884
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Architecture/Wall_Window_400x400.ubulk" 885
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 886
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Architecture/Wall_Window_400x400.uexp" 887
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Architecture/Wall_Door_400x400.ubulk" 888
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 889
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Architecture/Wall_Door_400x400.uexp" 890
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Architecture/Wall_500x500.ubulk" 891
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Architecture/Wall_500x500.uasset" 892
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Architecture/Wall_500x500.uexp" 893
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Architecture/Wall_400x400.ubulk" 894
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Architecture/Wall_400x400.uasset" 895
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Architecture/Wall_400x400.uexp" 896
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Architecture/Wall_400x300.ubulk" 897
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Architecture/Wall_400x300.uasset" 898
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Architecture/Wall_400x300.uexp" 899
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Architecture/Pillar_50x500.ubulk" 900
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Architecture/Pillar_50x500.uasset" 901
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Architecture/Pillar_50x500.uexp" 902
+"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Meta/PZD_Animation_Source.uasset" 903
+"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Meta/PZD_Animation_Source.uexp" 904
+"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Level/A_Pipe_Child_Top.uasset" 905
+"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Level/A_Pipe_Child_Top.uexp" 906
+"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Level/A_Pipe_Child_Bottom.uasset" 907
+"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Level/A_Pipe_Child_Bottom.uexp" 908
+"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Level/A_Pipe_Child_Middle.uasset" 909
+"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Level/A_Pipe_Child_Middle.uexp" 910
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_RotateV2.uasset" 911
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_RotateV2.uexp" 912
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_TransformUVs.uasset" 913
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_TransformUVs.uexp" 914
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_White_srgb.uasset" 915
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_White_srgb.uexp" 916
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_BaseColor.uasset" 917
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_BaseColor.uexp" 918
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialBodies/MF_Unlit_Body.uasset" 919
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialBodies/MF_Unlit_Body.uexp" 920
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Unlit.uasset" 921
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Unlit.uexp" 922
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Unlit_Opaque_DS.uasset" 923
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Unlit_Opaque_DS.uexp" 924
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Unlit_Opaque.uasset" 925
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Unlit_Opaque.uexp" 926
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Unlit_Mask_DS.uasset" 927
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Unlit_Mask_DS.uexp" 928
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Unlit_Mask.uasset" 929
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Unlit_Mask.uexp" 930
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Unlit_Blend_DS.uasset" 931
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Unlit_Blend_DS.uexp" 932
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Unlit_Blend.uasset" 933
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Unlit_Blend.uexp" 934
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_White_Linear.uasset" 935
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_White_Linear.uexp" 936
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_MetallicRoughness.uasset" 937
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_MetallicRoughness.uexp" 938
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Transmission.uasset" 939
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Transmission.uexp" 940
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Occlusion.uasset" 941
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Occlusion.uexp" 942
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Specular.uasset" 943
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Specular.uexp" 944
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_RotateNormals_TS.uasset" 945
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_RotateNormals_TS.uexp" 946
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_Generic_N.uasset" 947
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_Generic_N.uexp" 948
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Normals.uasset" 949
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Normals.uexp" 950
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialBodies/MF_Transmission_Body.uasset" 951
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialBodies/MF_Transmission_Body.uexp" 952
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Transmission.uasset" 953
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Transmission.uexp" 954
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Transmission_DS.uasset" 955
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Transmission_DS.uexp" 956
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Transmission.uasset" 957
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Transmission.uexp" 958
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_DiffuseSpecGloss.uasset" 959
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_DiffuseSpecGloss.uexp" 960
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/AddComponents.uasset" 961
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/AddComponents.uexp" 962
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_PerceivedBrightness.uasset" 963
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_PerceivedBrightness.uexp" 964
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Emissive.uasset" 965
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Emissive.uexp" 966
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_SpecGlossToMetalRoughness.uasset" 967
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_SpecGlossToMetalRoughness.uexp" 968
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialBodies/MF_SpecularGlossiness_Body.uasset" 969
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialBodies/MF_SpecularGlossiness_Body.uexp" 970
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_SpecularGlossiness.uasset" 971
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_SpecularGlossiness.uexp" 972
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque_DS.uasset" 973
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque_DS.uexp" 974
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque.uasset" 975
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque.uexp" 976
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS.uasset" 977
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS.uexp" 978
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Mask.uasset" 979
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Mask.uexp" 980
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Blend_DS.uasset" 981
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Blend_DS.uexp" 982
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Blend.uasset" 983
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Blend.uexp" 984
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Sheen.uasset" 985
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Sheen.uexp" 986
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_IOR.uasset" 987
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_IOR.uexp" 988
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialBodies/MF_Sheen_Body.uasset" 989
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialBodies/MF_Sheen_Body.uexp" 990
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Sheen.uasset" 991
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Sheen.uexp" 992
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Sheen_Opaque_DS.uasset" 993
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Sheen_Opaque_DS.uexp" 994
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Sheen_Opaque.uasset" 995
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Sheen_Opaque.uexp" 996
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Sheen_Mask_DS.uasset" 997
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Sheen_Mask_DS.uexp" 998
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Sheen_Mask.uasset" 999
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Sheen_Mask.uexp" 1000
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Sheen_Blend_DS.uasset" 1001
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Sheen_Blend_DS.uexp" 1002
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Sheen_Blend.uasset" 1003
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Sheen_Blend.uexp" 1004
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialBodies/MF_Default_Body.uasset" 1005
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialBodies/MF_Default_Body.uexp" 1006
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Default.uasset" 1007
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Default.uexp" 1008
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Default_Opaque_DS.uasset" 1009
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Default_Opaque_DS.uexp" 1010
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Default_Opaque.uasset" 1011
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Default_Opaque.uexp" 1012
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Default_Mask_DS.uasset" 1013
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Default_Mask_DS.uexp" 1014
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Default_Mask.uasset" 1015
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Default_Mask.uexp" 1016
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Default_Blend_DS.uasset" 1017
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Default_Blend_DS.uexp" 1018
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Default_Blend.uasset" 1019
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_Default_Blend.uexp" 1020
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 1021
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uexp" 1022
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Clearcoat.uasset" 1023
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Clearcoat.uexp" 1024
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialBodies/MF_ClearCoat_Body.uasset" 1025
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialBodies/MF_ClearCoat_Body.uexp" 1026
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_ClearCoat.uasset" 1027
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_ClearCoat.uexp" 1028
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_ClearCoat_Opaque_DS.uasset" 1029
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_ClearCoat_Opaque_DS.uexp" 1030
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_ClearCoat_Opaque.uasset" 1031
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_ClearCoat_Opaque.uexp" 1032
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_ClearCoat_Mask_DS.uasset" 1033
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_ClearCoat_Mask_DS.uexp" 1034
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_ClearCoat_Mask.uasset" 1035
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_ClearCoat_Mask.uexp" 1036
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_ClearCoat_Blend_DS.uasset" 1037
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_ClearCoat_Blend_DS.uexp" 1038
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_ClearCoat_Blend.uasset" 1039
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances/MI_ClearCoat_Blend.uexp" 1040
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 1041
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uexp" 1042
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 1043
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uexp" 1044
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 1045
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uexp" 1046
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.ubulk" 1047
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 1048
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uexp" 1049
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 1050
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uexp" 1051
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.ubulk" 1052
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 1053
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uexp" 1054
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 1055
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uexp" 1056
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 1057
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uexp" 1058
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 1059
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uexp" 1060
+"../../../Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uasset" 1061
+"../../../Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uexp" 1062
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 1063
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uexp" 1064
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 1065
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uexp" 1066
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 1067
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uexp" 1068
 "../../../Engine/Content/EngineMaterials/Substrate/Volume/SubstrateSimpleVolumeLUT2D.uasset" 1069
 "../../../Engine/Content/EngineMaterials/Substrate/Volume/SubstrateSimpleVolumeLUT2D.uexp" 1070
 "../../../Engine/Content/EngineMaterials/Substrate/Volume/SubstrateSimpleVolumeLUT3D.uasset" 1071
@@ -5181,42 +5181,42 @@
 "../../../Engine/Content/EngineMaterials/FlattenMaterial_WS_Normal_VT.uexp" 5180
 "../../../Engine/Content/OpenWorldTemplate/HLOD/HLOD0_Instancing.uasset" 5181
 "../../../Engine/Content/OpenWorldTemplate/HLOD/HLOD0_Instancing.uexp" 5182
-"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 5183
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 5184
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 5185
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 5186
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 5187
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 5188
-"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 5189
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 5190
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 5191
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 5192
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 5193
-"../../../Engine/Content/EngineSky/SM_SkySphere.ubulk" 5194
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 5195
-"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 5196
-"../../../Engine/Content/EngineSky/M_SimpleSkyDome.uasset" 5197
-"../../../Engine/Content/EngineSky/M_SimpleSkyDome.uexp" 5198
-"../../../Engine/Content/BasicShapes/Cube.ubulk" 5199
-"../../../Engine/Content/BasicShapes/Cube.uasset" 5200
-"../../../Engine/Content/BasicShapes/Cube.uexp" 5201
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 5202
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 5203
-"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Level/A_Reset_POS.uasset" 5204
-"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Level/A_Reset_POS.uexp" 5205
-"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Level/A_Teleport.uasset" 5206
-"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Level/A_Teleport.uexp" 5207
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Brick_Clay_New_D.ubulk" 5208
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 5209
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Brick_Clay_New_D.uexp" 5210
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 5211
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Brick_Clay_New_M.uexp" 5212
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_MacroVariation.uasset" 5213
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_MacroVariation.uexp" 5214
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 5215
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Brick_Clay_New_N.uexp" 5216
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 5217
-"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Materials/M_Brick_Clay_New.uexp" 5218
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Brick_Clay_New_D.ubulk" 5183
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 5184
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Brick_Clay_New_D.uexp" 5185
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 5186
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Brick_Clay_New_M.uexp" 5187
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_MacroVariation.uasset" 5188
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_MacroVariation.uexp" 5189
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 5190
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Brick_Clay_New_N.uexp" 5191
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 5192
+"D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Materials/M_Brick_Clay_New.uexp" 5193
+"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 5194
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 5195
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 5196
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 5197
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 5198
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 5199
+"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 5200
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 5201
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 5202
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 5203
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 5204
+"../../../Engine/Content/EngineSky/SM_SkySphere.ubulk" 5205
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 5206
+"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 5207
+"../../../Engine/Content/EngineSky/M_SimpleSkyDome.uasset" 5208
+"../../../Engine/Content/EngineSky/M_SimpleSkyDome.uexp" 5209
+"../../../Engine/Content/BasicShapes/Cube.ubulk" 5210
+"../../../Engine/Content/BasicShapes/Cube.uasset" 5211
+"../../../Engine/Content/BasicShapes/Cube.uexp" 5212
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 5213
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 5214
+"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Level/A_Reset_POS.uasset" 5215
+"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Level/A_Reset_POS.uexp" 5216
+"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Level/A_Teleport.uasset" 5217
+"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Level/A_Teleport.uexp" 5218
 "../../../Engine/Content/EngineMaterials/Substrate/GLints/dict_16_192_64_0p5_0p02_0047_0010.uasset" 5219
 "../../../Engine/Content/EngineMaterials/Substrate/GLints/dict_16_192_64_0p5_0p02_0047_0010.uexp" 5220
 "../../../Engine/Content/EngineMaterials/Substrate/GLints/dict_16_192_64_0p5_0p02_0039_0007.uasset" 5221
@@ -7267,20 +7267,20 @@
 "../../../Engine/Content/EngineMaterials/Substrate/GLints/dict_16_192_64_0p5_0p02_0045_0010.uexp" 7266
 "../../../Engine/Content/EngineMaterials/Substrate/GLints/AGlintTex2dArray.uasset" 7267
 "../../../Engine/Content/EngineMaterials/Substrate/GLints/AGlintTex2dArray.uexp" 7268
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 7269
-"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 7270
-"../../../Engine/Content/Maps/Entry.uexp" 7271
-"../../../Engine/Content/Maps/Entry.umap" 7272
-"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Meta/Widget_Score.uasset" 7273
-"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Meta/Widget_Score.uexp" 7274
-"D:/Projects/UE5 Course/FlappyBird/Content/Levels/Main_HLOD0_Instancing.uasset" 7275
-"D:/Projects/UE5 Course/FlappyBird/Content/Levels/Main_HLOD0_Instancing.uexp" 7276
-"D:/Projects/UE5 Course/FlappyBird/Content/SFX/434165__supervanz__stepper-loop-piano-music-with-drums-and-a-cow.ubulk" 7277
-"D:/Projects/UE5 Course/FlappyBird/Content/SFX/434165__supervanz__stepper-loop-piano-music-with-drums-and-a-cow.uasset" 7278
-"D:/Projects/UE5 Course/FlappyBird/Content/SFX/434165__supervanz__stepper-loop-piano-music-with-drums-and-a-cow.uexp" 7279
-"D:/Projects/UE5 Course/FlappyBird/Content/Levels/Main.uexp" 7280
-"D:/Projects/UE5 Course/FlappyBird/Content/Levels/Main.ubulk" 7281
-"D:/Projects/UE5 Course/FlappyBird/Content/Levels/Main.umap" 7282
+"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Meta/Widget_Score.uasset" 7269
+"D:/Projects/UE5 Course/FlappyBird/Content/Blueprints/Meta/Widget_Score.uexp" 7270
+"D:/Projects/UE5 Course/FlappyBird/Content/Levels/Main_HLOD0_Instancing.uasset" 7271
+"D:/Projects/UE5 Course/FlappyBird/Content/Levels/Main_HLOD0_Instancing.uexp" 7272
+"D:/Projects/UE5 Course/FlappyBird/Content/SFX/434165__supervanz__stepper-loop-piano-music-with-drums-and-a-cow.ubulk" 7273
+"D:/Projects/UE5 Course/FlappyBird/Content/SFX/434165__supervanz__stepper-loop-piano-music-with-drums-and-a-cow.uasset" 7274
+"D:/Projects/UE5 Course/FlappyBird/Content/SFX/434165__supervanz__stepper-loop-piano-music-with-drums-and-a-cow.uexp" 7275
+"D:/Projects/UE5 Course/FlappyBird/Content/Levels/Main.uexp" 7276
+"D:/Projects/UE5 Course/FlappyBird/Content/Levels/Main.ubulk" 7277
+"D:/Projects/UE5 Course/FlappyBird/Content/Levels/Main.umap" 7278
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 7279
+"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 7280
+"../../../Engine/Content/Maps/Entry.uexp" 7281
+"../../../Engine/Content/Maps/Entry.umap" 7282
 "D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Frame_M.ubulk" 7283
 "D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Frame_M.uasset" 7284
 "D:/Projects/UE5 Course/FlappyBird/Content/StarterContent/Textures/T_Frame_M.uexp" 7285
